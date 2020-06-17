@@ -374,6 +374,7 @@ address .item:focus {
   text-align: center;
   letter-spacing: 0.06em;
   text-decoration: none;
+  cursor: pointer;
 }
 
 .action {
@@ -721,6 +722,7 @@ button {
 }
 
 .input {
+  margin-right: 12px;
   padding: 12px 18px;
   width: 358px;
   height: 50px;
